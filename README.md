@@ -25,3 +25,10 @@ Only provide exe executable programs
      * openvino.dll (Release版本)
      * Qt相关动态库
 4. 如仍无法运行，请根据报错再进行逐步解决，如无法解决 请联系本人邮箱 2816290589@qq.com
+
+5. 项目ui界面图：
+   
+
+   ![屏幕截图 2025-05-20 130438](https://github.com/user-attachments/assets/5964946f-32ec-4f77-85a2-6868d8563bc7)
+
+   

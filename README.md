@@ -24,4 +24,4 @@ Only provide exe executable programs
      * opencv_world480d.dll (Debug版本)（并非必要）
      * openvino.dll (Release版本)
      * Qt相关动态库
-4. 如仍无法运行，请根据报错再进行逐步解决，如无法解决 请联系本人邮箱 --2816290589@qq.com
+4. 如仍无法运行，请根据报错再进行逐步解决，如无法解决 请联系本人邮箱 2816290589@qq.com
